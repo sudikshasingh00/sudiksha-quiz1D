@@ -33,19 +33,23 @@
    and a 1px solid #e0c35a border. */
 #notice {
    background-color: #fdf3d0;
-   border: 1px;
-   border-color: #e0c35a;
+   border: 1px #e0c35a;
 }
 
 
 /* TASK 6: The page content is inside a div with class="wrapper".
    Give it a width of 600px and centre it in the browser window. */
-
+.wrapper {
+   width: 600px;
+   align-content: center;
+}
 
 
 /* TASK 7: Make links change colour when the mouse is over them.
    Use any colour you like. */
-
+a:hover {
+  color: brown;
+}
 
 
 /* TASK 8: Add a comment of your own above one of your rules,
