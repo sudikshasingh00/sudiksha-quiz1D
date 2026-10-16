@@ -33,7 +33,8 @@
    and a 1px solid #e0c35a border. */
 #notice {
    background-color: #fdf3d0;
-   border: 1px #e0c35a;
+   padding: 1px;
+   border: 1px solid #e0c35a;
 }
 
 
