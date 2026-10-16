@@ -15,7 +15,9 @@
 
 
 /* TASK 3: Make the main page title (the h1) the colour #2a6049. */
-
+.h1 {
+   color: #2a6049;
+}
 
 
 /* TASK 4: Make the tagline italic.
