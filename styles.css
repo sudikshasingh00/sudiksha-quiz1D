@@ -47,6 +47,9 @@
 
 /* TASK 7: Make links change colour when the mouse is over them.
    Use any colour you like. */
+
+/* Sudiksha-Comment 
+This rule enables the link to change its color as the cursor hovers over the text. */
 a:hover {
   color: brown;
 }
